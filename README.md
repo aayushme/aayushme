@@ -34,6 +34,5 @@
 <br/>
 <br/>
 
-[![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushme&show_icons=true&theme=radical&align=left )](https://github.com/parag56/github-readme-stats)
-
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushme&show_icons=true&theme=radical&align=left )
 <br/>
