@@ -15,7 +15,7 @@
 
 ## Connect with me:
 [<img align="left" alt="Linked in Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/aayushme/)
-
+<br/>
 <br/>
 ## Languages and tools:
 <img align="left"   src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,8 +31,9 @@
 <img align="left"   src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <br/>
 <br/>
+<br/>
+<br/>
 
-
-[![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parag56&show_icons=true&theme=radical&align=left )](https://github.com/parag56/github-readme-stats)
+[![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushme&show_icons=true&theme=radical&align=left )](https://github.com/parag56/github-readme-stats)
 
 <br/>
