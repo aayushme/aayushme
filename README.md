@@ -1,21 +1,21 @@
-### Hi there, I'm <strong>Parag</strong> 👋️
+### Hi there, I'm <strong>Aayush Tyagi</strong> 👋️
 
-![](https://komarev.com/ghpvc/?username=parag56&color=blue&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=aayushme&color=blue&label=PROFILE+VIEWS)
 
 <br/>
 
 ## I'm a student,<br/>Developer!
 -👨‍💻️👨‍💻️I'm Currently learning Devops <br/>
 -💥️💥️2021 Goals:Contribute more to open source <br/>
--😋️I love watching animes <br/>
--📧️How to reach me:paragthakur56@gmail.com <br/>
+-😋️I love playing guitar <br/>
+-📧️How to reach me:aayushtyagionline@gmail.com <br/>
 -I'm a MERN stack developer <br/>
 <br/>
 <br/>
 
 ## Connect with me:
-[<img align="left" alt="Linked in Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/parag-thakur-47a8bb190)
-[<img align="left" alt="Instagram Profile"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/paragthakur56/)
+[<img align="left" alt="Linked in Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/aayushme/)
+
 <br/>
 ## Languages and tools:
 <img align="left"   src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
